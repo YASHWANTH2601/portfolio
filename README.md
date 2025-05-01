@@ -21,4 +21,5 @@ HTML5, CSS3, JavaScript (ES6+)
 
 EmailJS / Formspree (for contact)
 
-GitHub Pages / Vercel / Netlify for deployment
+GitHub Pages / Vercel / vercel for deployment
+Here is the deployment link : https://yashwanth-ten.vercel.app/
