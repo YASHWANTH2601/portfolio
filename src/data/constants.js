@@ -5,7 +5,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/YASHWANTH2601",
   resume:
-    "https://drive.google.com/file/d/1qWHWJGZ3ud1ylti3Oe23Io_66g0lMNCk/view?usp=drive_link",
+    "https://drive.google.com/file/d/1W19SXt94hOIloBn0CrbeG3EHtZJMtxeJ/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/yashwanth2601/",
   twitter: "https://twitter.com/RishavChanda",
   insta: "https://www.instagram.com/rishav_chanda/",
